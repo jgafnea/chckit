@@ -6,8 +6,6 @@ chckit is an open-source website review tool.
 
 ### Who is it for?
 
-chckit is for anyone with a website for any purpose.
-
 - People starting a business or SaaS
 - Solo developers and indie creators
 - Anyone making a website for any purpose
